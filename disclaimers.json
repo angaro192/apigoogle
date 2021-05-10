@@ -1,0 +1,378 @@
+[
+  {
+    "api": "accessapproval",
+    "package": "@google-cloud/access-approval"
+  },
+  {
+    "api": "aiplatform",
+    "package": "@google-cloud/aiplatform"
+  },
+  {
+    "api": "notebooks",
+    "package": "@google-cloud/notebooks"
+  },
+  {
+    "api": "apigateway",
+    "package": "@google-cloud/api-gateway"
+  },
+  {
+    "api": "appengine",
+    "package": "@google-cloud/appengine-admin"
+  },
+  {
+    "api": "area120tables",
+    "package": "@google/area120-tables"
+  },
+  {
+    "api": "artifactregistry",
+    "package": "@google-cloud/artifact-registry"
+  },
+  {
+    "api": "cloudasset",
+    "package": "@google-cloud/asset"
+  },
+  {
+    "api": "assuredworkloads",
+    "package": "@google-cloud/assured-workloads"
+  },
+  {
+    "api": "automl",
+    "package": "@google-cloud/automl"
+  },
+  {
+    "api": "bigtable",
+    "package": "@google-cloud/bigtable"
+  },
+  {
+    "api": "cloudbilling",
+    "package": "@google-cloud/billing"
+  },
+  {
+    "api": "billingbudgets",
+    "package": "@google-cloud/billing-budgets"
+  },
+  {
+    "api": "binaryauthorization",
+    "package": "@google-cloud/binary-authorization"
+  },
+  {
+    "api": "cloudbuild",
+    "package": "@google-cloud/cloudbuild"
+  },
+  {
+    "api": "privateca",
+    "package": "@google-cloud/security-private-ca"
+  },
+  {
+    "api": "cloudchannel",
+    "package": "@google-cloud/channel"
+  },
+  {
+    "api": "datacatalog",
+    "package": "@google-cloud/datacatalog"
+  },
+  {
+    "api": "datalabeling",
+    "package": "@google-cloud/datalabeling"
+  },
+  {
+    "api": "dlp",
+    "package": "@google-cloud/dlp"
+  },
+  {
+    "api": "dataqna",
+    "package": "@google-cloud/data-qna"
+  },
+  {
+    "api": "dataproc",
+    "package": "@google-cloud/dataproc"
+  },
+  {
+    "api": "metastore",
+    "package": "@google-cloud/dataproc-metastore"
+  },
+  {
+    "api": "datastore",
+    "package": "@google-cloud/datastore"
+  },
+  {
+    "api": "datastore",
+    "package": "@google-cloud/connect-datastore"
+  },
+  {
+    "api": "dialogflow",
+    "package": "@google-cloud/dialogflow"
+  },
+  {
+    "api": "dialogflow",
+    "package": "@google-cloud/dialogflow-cx"
+  },
+  {
+    "api": "dns",
+    "package": "@google-cloud/dns"
+  },
+  {
+    "api": "documentai",
+    "package": "@google-cloud/documentai"
+  },
+  {
+    "api": "domains",
+    "package": "@google-cloud/domains"
+  },
+  {
+    "api": "clouderrorreporting",
+    "package": "@google-cloud/error-reporting"
+  },
+  {
+    "api": "firestore",
+    "package": "@google-cloud/firestore"
+  },
+  {
+    "api": "firestore",
+    "package": "@google-cloud/connect-firestore"
+  },
+  {
+    "api": "cloudfunctions",
+    "package": "@google-cloud/functions"
+  },
+  {
+    "api": "gameservices",
+    "package": "@google-cloud/game-servers"
+  },
+  {
+    "api": "gkehub",
+    "package": "@google-cloud/gke-hub"
+  },
+  {
+    "api": "analyticsadmin",
+    "package": "@google-analytics/admin"
+  },
+  {
+    "api": "analyticsdata",
+    "package": "@google-analytics/data"
+  },
+  {
+    "api": "bigquery",
+    "package": "@google-cloud/bigquery"
+  },
+  {
+    "api": "bigqueryconnection",
+    "package": "@google-cloud/bigquery-connection"
+  },
+  {
+    "api": "bigquerydatatransfer",
+    "package": "@google-cloud/bigquery-data-transfer"
+  },
+  {
+    "api": "bigqueryreservation",
+    "package": "@google-cloud/bigquery-reservation"
+  },
+  {
+    "api": "bigquerystorage",
+    "package": "@google-cloud/bigquery-storage"
+  },
+  {
+    "api": "compute",
+    "package": "@google-cloud/compute"
+  },
+  {
+    "api": "containeranalysis",
+    "package": "@google-cloud/containeranalysis"
+  },
+  {
+    "api": "containeranalysis",
+    "package": "@google-cloud/grafeas"
+  },
+  {
+    "api": "policytroubleshooter",
+    "package": "@google-cloud/policy-troubleshooter"
+  },
+  {
+    "api": "iamcredentials",
+    "package": "@google-cloud/iam-credentials"
+  },
+  {
+    "api": "cloudiot",
+    "package": "@google-cloud/iot"
+  },
+  {
+    "api": "kms",
+    "package": "@google-cloud/kms"
+  },
+  {
+    "api": "container",
+    "package": "@google-cloud/container"
+  },
+  {
+    "api": "logging",
+    "package": "@google-cloud/logging"
+  },
+  {
+    "api": "logging",
+    "package": "@google-cloud/logging-bunyan"
+  },
+  {
+    "api": "logging",
+    "package": "@google-cloud/logging-winston"
+  },
+  {
+    "api": "managedidentities",
+    "package": "@google-cloud/managed-identities"
+  },
+  {
+    "api": "mediatranslation",
+    "package": "@google-cloud/media-translation"
+  },
+  {
+    "api": "memcache",
+    "package": "@google-cloud/memcache"
+  },
+  {
+    "api": "monitoring",
+    "package": "@google-cloud/monitoring-dashboards"
+  },
+  {
+    "api": "language",
+    "package": "@google-cloud/language"
+  },
+  {
+    "api": "networkconnectivity",
+    "package": "@google-cloud/network-connectivity"
+  },
+  {
+    "api": "orgpolicy",
+    "package": "@google-cloud/org-policy"
+  },
+  {
+    "api": "osconfig",
+    "package": "@google-cloud/os-config"
+  },
+  {
+    "api": "oslogin",
+    "package": "@google-cloud/os-login"
+  },
+  {
+    "api": "phishingprotection",
+    "package": "@google-cloud/phishing-protection"
+  },
+  {
+    "api": "cloudprofiler",
+    "package": "@google-cloud/profiler"
+  },
+  {
+    "api": "pubsub",
+    "package": "@google-cloud/pubsub"
+  },
+  {
+    "api": "recaptchaenterprise",
+    "package": "@google-cloud/recaptcha-enterprise"
+  },
+  {
+    "api": "recommender",
+    "package": "@google-cloud/recommender"
+  },
+  {
+    "api": "redis",
+    "package": "@google-cloud/redis"
+  },
+  {
+    "api": "cloudresourcemanager",
+    "package": "@google-cloud/resource"
+  },
+  {
+    "api": "retail",
+    "package": "@google-cloud/retail"
+  },
+  {
+    "api": "runtimeconfig",
+    "package": "@google-cloud/rcloadenv"
+  },
+  {
+    "api": "cloudscheduler",
+    "package": "@google-cloud/scheduler"
+  },
+  {
+    "api": "secretmanager",
+    "package": "@google-cloud/secret-manager"
+  },
+  {
+    "api": "securitycenter",
+    "package": "@google-cloud/security-center"
+  },
+  {
+    "api": "servicecontrol",
+    "package": "@google-cloud/service-control"
+  },
+  {
+    "api": "servicedirectory",
+    "package": "@google-cloud/service-directory"
+  },
+  {
+    "api": "servicemanagement",
+    "package": "@google-cloud/service-management"
+  },
+  {
+    "api": "spanner",
+    "package": "@google-cloud/spanner"
+  },
+  {
+    "api": "speech",
+    "package": "@google-cloud/speech"
+  },
+  {
+    "api": "clouddebugger",
+    "package": "@google-cloud/debug-agent"
+  },
+  {
+    "api": "monitoring",
+    "package": "@google-cloud/monitoring"
+  },
+  {
+    "api": "cloudtrace",
+    "package": "@google-cloud/trace-agent"
+  },
+  {
+    "api": "storage-api",
+    "package": "@google-cloud/storage"
+  },
+  {
+    "api": "jobs",
+    "package": "@google-cloud/talent"
+  },
+  {
+    "api": "tasks",
+    "package": "@google-cloud/tasks"
+  },
+  {
+    "api": "texttospeech",
+    "package": "@google-cloud/text-to-speech"
+  },
+  {
+    "api": "transcoder",
+    "package": "@google-cloud/video-transcoder"
+  },
+  {
+    "api": "translate",
+    "package": "@google-cloud/translate"
+  },
+  {
+    "api": "videointelligence",
+    "package": "@google-cloud/video-intelligence"
+  },
+  {
+    "api": "vision",
+    "package": "@google-cloud/vision"
+  },
+  {
+    "api": "webrisk",
+    "package": "@google-cloud/web-risk"
+  },
+  {
+    "api": "websecurityscanner",
+    "package": "@google-cloud/web-security-scanner"
+  },
+  {
+    "api": "workflows",
+    "package": "@google-cloud/workflows"
+  }
+]
